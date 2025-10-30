@@ -1,0 +1,20 @@
+name: SCPGame
+version: '1.0-SNAPSHOT'
+main: xyz.xiaocan.scpgame.SCPMain
+api-version: '1.21'
+authors: [ xiaocan ]
+description: 关于SCP游戏的创建
+
+commands:
+  scpdoor:
+    description: SCP门管理命令
+    usage: /scpdoor <create|toggle|reloaddoor|getcards|delete|list>
+  test:
+    description: 测试指令
+    usage: /test
+  gun:
+    description: 获取枪械
+    usage: /gun
+  inter:
+    description: 交互指令
+    usage: /inter

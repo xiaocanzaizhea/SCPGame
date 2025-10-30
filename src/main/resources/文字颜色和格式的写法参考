@@ -1,0 +1,25 @@
+// 基本颜色
+§0 - 黑色 (BLACK)
+§1 - 深蓝色 (DARK_BLUE)
+§2 - 深绿色 (DARK_GREEN)
+§3 - 深青色 (DARK_AQUA)
+§4 - 深红色 (DARK_RED)
+§5 - 紫色 (DARK_PURPLE)
+§6 - 金色 (GOLD)
+§7 - 灰色 (GRAY)
+§8 - 深灰色 (DARK_GRAY)
+§9 - 蓝色 (BLUE)
+§a - 绿色 (GREEN)
+§b - 青色 (AQUA)
+§c - 红色 (RED)
+§d - 粉红色 (LIGHT_PURPLE)
+§e - 黄色 (YELLOW)
+§f - 白色 (WHITE)
+
+// 文字格式
+§k - 乱码/闪烁 (OBFUSCATED)
+§l - 粗体 (BOLD)          // §d§l 就是粉色粗体
+§m - 删除线 (STRIKETHROUGH)
+§n - 下划线 (UNDERLINE)
+§o - 斜体 (ITALIC)
+§r - 重置所有格式 (RESET)
